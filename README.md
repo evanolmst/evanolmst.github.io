@@ -1,2 +1,5 @@
-Hello world! It's my website!
-![alt text]((https://en.wikipedia.org/wiki/New_Jersey_Devils#/media/File:New_Jersey_Devils_logo.svg))
+Hey Chuck is this you
+
+
+https://github.com/user-attachments/assets/79d478b6-6a5e-42e8-a718-8022b438da06
+
